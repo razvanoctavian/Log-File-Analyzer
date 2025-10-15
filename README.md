@@ -75,7 +75,9 @@ Example log entry from `info.txt`:
 
 Running the script will generate visualizations like:  
 
-1.For Top 5 IP:
-![Example Output 1 ](example1.png)
-![Example Output 2 ](example2.png)
+**1. For Top 5 IP:**   
+![Example Output 1](example1.png)
+
+**2. For HTTP status:**  
+![Example Output 2](example2.png)
 ---
