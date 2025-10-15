@@ -46,7 +46,7 @@ LOG FILE ANALYZER
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/USERNAME/log-file-analyzer.git
+   git clone https://github.com/razvanoctavian/log-file-analyzer.git
    cd log-file-analyzer
    ```
 
