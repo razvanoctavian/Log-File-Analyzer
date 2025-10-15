@@ -57,7 +57,7 @@ LOG FILE ANALYZER
 
 3. Run the script:
    ```bash
-   python analyzer.py
+   python log_file_analyzer.py
    ```
 
 ---
